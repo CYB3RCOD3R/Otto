@@ -1,2 +1,2 @@
 # Otto
- An AI Virtual Assistiant
+ A Virtual AI Assistant
